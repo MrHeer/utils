@@ -1,6 +1,6 @@
-# TSDX Bootstrap
+# utils
 
-This project was bootstrapped with [TSDX](https://github.com/jaredpalmer/tsdx).
+common utils for typescript
 
 ## Local Development
 
