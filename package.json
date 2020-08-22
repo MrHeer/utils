@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "utils",
+  "name": "@MrHeer/utils",
   "author": "MrHeer <hlm52pk@163.com>",
   "repository": {
     "type": "git",
@@ -45,7 +45,7 @@
     "url": "https://github.com/MrHeer/utils/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/MrHeer"
   },
   "module": "dist/utils.esm.js",
   "devDependencies": {
