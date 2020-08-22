@@ -1,7 +1,12 @@
 {
   "version": "0.1.0",
   "license": "MIT",
+  "description": "common utils for typescript",
   "main": "dist/index.js",
+  "keywords": [
+    "utils",
+    "typescript"
+  ],
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
@@ -29,13 +34,19 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "utils",
+  "name": "@MrHeer/utils",
   "author": "MrHeer <hlm52pk@163.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/MrHeer/utils.git"
   },
   "homepage": "https://github.com/MrHeer/utils#readme",
+  "bugs": {
+    "url": "https://github.com/MrHeer/utils/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/MrHeer"
+  },
   "module": "dist/utils.esm.js",
   "devDependencies": {
     "@types/lodash": "^4.14.159",
