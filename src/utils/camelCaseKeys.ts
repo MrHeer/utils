@@ -1,6 +1,6 @@
 import { camelCase, isObject, isArray, reduce } from 'lodash';
 
-export const camelCaseKeys = (obj: any): any => {
+export const camelCaseKeys = (obj: object): object => {
   if (!isObject(obj)) {
     return obj;
   } else if (isArray(obj)) {
