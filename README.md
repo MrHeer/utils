@@ -1,6 +1,6 @@
 # utils
 
-common utils for typescript
+Common utils for `TypeScript`.
 
 ## Local Development
 
